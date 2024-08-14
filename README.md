@@ -10,7 +10,7 @@ A reference .NET application implementing an e-commerce website using a services
 
 ### Prerequisites
 
-- Clone the eShop repository: https://github.com/dotnet/eshop
+- Clone the eShop repository: https://github.com/guilherme-exadel/eshop
 - [Install & start Docker Desktop](https://docs.docker.com/engine/install/)
 
 #### Windows with Visual Studio
